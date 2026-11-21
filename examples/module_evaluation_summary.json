@@ -1,0 +1,30 @@
+{
+  "sft": {
+    "teacher_provenance": "oracle_simulation",
+    "classifier_macro_f1": 0.14772481040086674,
+    "initial_retriever_recall_at_50": 0.1886295563709927,
+    "trained_retriever_recall_at_50": 0.2849589187926479,
+    "end_to_end_macro_f1_at_50": 0.08379913655987276
+  },
+  "grpo": {
+    "teacher_provenance": "oracle_simulation",
+    "classifier_macro_f1": 0.11949097562688503,
+    "initial_retriever_recall_at_50": 0.1886295563709927,
+    "trained_retriever_recall_at_50": 0.27978333030870695,
+    "end_to_end_macro_f1_at_50": 0.1373578688446383
+  },
+  "soft": {
+    "teacher_provenance": "oracle_simulation",
+    "classifier_macro_f1": 0.0,
+    "initial_retriever_recall_at_50": 0.1886295563709927,
+    "trained_retriever_recall_at_50": 0.19846555208989422,
+    "end_to_end_macro_f1_at_50": 0.0
+  },
+  "hybrid": {
+    "teacher_provenance": "oracle_simulation",
+    "classifier_macro_f1": 0.11949097562688503,
+    "initial_retriever_recall_at_50": 0.1886295563709927,
+    "trained_retriever_recall_at_50": 0.27978333030870695,
+    "end_to_end_macro_f1_at_50": 0.1373578688446383
+  }
+}

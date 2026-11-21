@@ -1,0 +1,4 @@
+{
+  "id": "REPLACE_record_id", "group_id": "REPLACE_patient_id", "text": "REPLACE_text",
+  "labels": {"REPLACE_code": "REPLACE_binary_column"}
+}

@@ -1,0 +1,34 @@
+{
+  "sft": {
+    "rounds_completed": 5,
+    "teacher_requests": 180,
+    "teacher_type": "perfect_train_gold_oracle",
+    "external_calls": 0,
+    "pseudo_pair_updates": 0,
+    "final_dev_macro_f1": 0.14772481040086674
+  },
+  "grpo": {
+    "rounds_completed": 5,
+    "teacher_requests": 180,
+    "teacher_type": "perfect_train_gold_oracle",
+    "external_calls": 0,
+    "pseudo_pair_updates": 0,
+    "final_dev_macro_f1": 0.11949097562688503
+  },
+  "soft": {
+    "rounds_completed": 5,
+    "teacher_requests": 36,
+    "teacher_type": "perfect_train_gold_oracle",
+    "external_calls": 0,
+    "pseudo_pair_updates": 0,
+    "final_dev_macro_f1": 0.0
+  },
+  "hybrid": {
+    "rounds_completed": 5,
+    "teacher_requests": 180,
+    "teacher_type": "perfect_train_gold_oracle",
+    "external_calls": 0,
+    "pseudo_pair_updates": 0,
+    "final_dev_macro_f1": 0.11949097562688503
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "backend": "hf",
+  "model_path": "/absolute/path/to/local/causal-lm",
+  "lr": 1e-05,
+  "device": "cuda",
+  "max_length": 1024,
+  "lora_rank": 8,
+  "local_files_only": true
+}

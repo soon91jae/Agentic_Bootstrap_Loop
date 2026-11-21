@@ -1,0 +1,11 @@
+{
+  "opioids": "Mention of an opioid medication or opioid substance.",
+  "indication": "A clinical indication for opioid treatment, such as pain being treated with opioids.",
+  "benzodiazepines": "Mention of a benzodiazepine medication.",
+  "cns": "A central nervous system related finding or condition relevant to the annotation task.",
+  "med_change": "A change in medication treatment, including initiation, discontinuation, or dose change.",
+  "sdoh": "A social determinant of health, such as housing, employment, finances, or social support.",
+  "oud": "A documented diagnosis of opioid dependence or opioid use disorder.",
+  "cab": "Documented confirmed opioid-related aberrant behavior.",
+  "sab": "Evidence suggesting possible opioid-related aberrant behavior, without confirmation."
+}

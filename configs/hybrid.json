@@ -1,0 +1,27 @@
+{
+  "seed": 42,
+  "rounds": 5,
+  "rollouts": 8,
+  "selection": "uniform_bins",
+  "top_k_per_code": 80,
+  "explore_per_code": 20,
+  "teacher_budget_total": 180,
+  "teacher_budget_round": 36,
+  "sft_epochs": 2,
+  "retriever_epochs": 2,
+  "self_threshold": 0.95,
+  "stable_rounds": 2,
+  "self_weight": 0.25,
+  "text_dropout": 0.15,
+  "kl_beta": 0.01,
+  "classifier": {
+    "backend": "linear",
+    "dim": 512,
+    "lr": 0.2
+  },
+  "retriever": {
+    "dim": 512,
+    "lr": 0.1
+  },
+  "mode": "hybrid"
+}
