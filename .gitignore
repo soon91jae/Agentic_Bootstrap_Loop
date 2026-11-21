@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+private/
+runs/
+*.local.json
+.env
+# Clinical data, local credentials, model weights and generated runs
+data/
+checkpoints/
+outputs/
+server_runs/
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.csv
+*.parquet
+*.jsonl
+*.pem
+*.key
